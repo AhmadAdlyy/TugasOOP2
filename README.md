@@ -2,9 +2,9 @@
 # Sistem Penjualan Barang Elektronik (Python OOP)
 
 ## Identitas
-* Nama:Ahmad Adly Maulana *
-* Kelas:XI RPL 5 *
-* Mapel:Koding & Kecerdasan Artifisial *
+* Nama:Ahmad Adly Maulana*
+* Kelas:XI RPL 5*
+* Mapel:Koding & Kecerdasan Artifisial*
 
 Program ini merupakan simulasi sistem penjualan barang elektronik menggunakan konsep
 Object Oriented Programming (OOP) dengan bahasa Python.
